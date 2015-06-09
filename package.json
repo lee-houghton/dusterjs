@@ -36,7 +36,7 @@
   ],
   "dependencies": {
     "watch": "~0.8.0",
-    "dustjs-linkedin": "^2.x.y",
+    "dustjs-linkedin": "^2.7.2",
     "optimist": "~0.6.0",
     "colors": "~0.6.2",
     "diveSync": "~0.2.0",
